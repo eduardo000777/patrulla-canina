@@ -44,7 +44,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-07 17:48:12 +0000",
-      "minecraft:sparse_jungle": "2025-04-07 17:48:33 +0000"
+      "minecraft:sparse_jungle": "2025-04-07 17:48:33 +0000",
+      "minecraft:plains": "2025-04-07 17:59:01 +0000"
     },
     "done": false
   },
@@ -57,6 +58,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-04-07 17:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-07 17:59:00 +0000"
     },
     "done": true
   },
